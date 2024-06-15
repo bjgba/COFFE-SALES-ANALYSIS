@@ -42,7 +42,7 @@ Forecasting: Predictive analytics and forecasting models to anticipate future sa
 
 5.The MONTH OVER MONTH growth rate in total sales,total order,total quantity ranges from 30%-32%
 
-6.In order to generate max sales the coffee shops need to open 10hours each day of the week 
+6.In order to generate maximum sales the coffee shops need to open 10hours each day of the week 
 
 
 
