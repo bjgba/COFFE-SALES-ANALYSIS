@@ -1,5 +1,5 @@
-
 **Coffee Sales Dashboard in Power BI**
+
 Welcome to the Coffee Sales Dashboard repository! This project utilizes Power BI to visualize and analyze sales data related to coffee products. Whether you're a coffee enthusiast, a data analyst, or a business owner, this dashboard provides valuable insights into sales trends and performance metrics.This repository contains the dataset and the SQL queries
 
 **Dashboard Features**
@@ -8,14 +8,17 @@ Sales Trends: Visual representation of sales trends over time, by product catego
 Product Analysis: Detailed insights into top-selling products, revenue contribution, and profitability.
 Customer Segmentation: Analysis of customer demographics and purchasing behaviors.
 Forecasting: Predictive analytics and forecasting models to anticipate future sales trends
+
 **TOOL USED**
 1.POWER  BI
 2.MICROSOFT SQL SERVER
-SKILL DEMONSTRATION
+
+**SKILL DEMONSTRATION**
 1.Data Manipulation and transformation
 2.Data manipulation using advance DAX(IF,MAX,AVERAGEX,MAX,VAR,WEEKDAY,WEEKNUM,ADDCOLUMNS,SUM)
 Created a new table called date table using DAX(CALENDAR,MAX,MIN)
 Comparing Key performance metrics to the industry standard**
+
 **INSIGHTS AND RECOMMENDATION**
 1.The coffee shop makes the maximum revenue on monday which more order and quantity are received and sold during mondays
 2. We also noticed that more sales are generated in  the sixth month
