@@ -28,13 +28,13 @@ Forecasting: Predictive analytics and forecasting models to anticipate future sa
 
 3.Created a new table called date table using DAX(CALENDAR,MAX,MIN)
 
-4.Comparing Key performance metrics to the industry standard**
+4.Comparing Key performance metrics to the industry standard
 
 **INSIGHTS AND RECOMMENDATION**
 
 1.The coffee shop makes the maximum revenue on monday which more order and quantity are received and sold during mondays
 
-2. We also noticed that more sales are generated in  the sixth month
+2.We also noticed that more sales are generated in  the sixth month
 
 3.Hell's Kitchen coffee store makes the highest coffee sales 
 
