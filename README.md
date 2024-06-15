@@ -25,7 +25,7 @@ Comparing Key performance metrics to the industry standard**
 6.In order to generate max sales the coffee shops need to open 10hours each day of the week 
 
 
-![Screenshot (12)](https://github.com/bjgba/COFFE-SALES-DASHBOARD/assets/162343390/a3f3250e-dcff-4bc8-93d3-ea37e650fc9a)
 
+![Screenshot (18)](https://github.com/bjgba/COFFE-SALES-DASHBOARD/assets/162343390/0440ea3d-57ed-4917-963d-33e067477fc8)
 
 
